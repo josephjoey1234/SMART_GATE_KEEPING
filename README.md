@@ -23,7 +23,11 @@ Ensured data integrity and efficient record-keeping for vehicle management at en
 Technologies Used:
 
 Deep Learning: Keras, TensorFlow
+
 Image Processing: OpenCV
+
 OCR: EasyOCR
+
 Data Management: Python, CSV
+
 Deployment: Google Colab
